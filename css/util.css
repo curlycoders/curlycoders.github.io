@@ -3,8 +3,8 @@
 /*//////////////////////////////////////////////////////////////////
 [ REBOOT ]*/
 *, *:before, *:after {
-	margin: 0px; 
-	padding: 0px; 
+	margin: 0px;
+	padding: 0px;
 	-webkit-box-sizing: border-box;
 	-moz-box-sizing: border-box;
 	box-sizing: border-box;
@@ -2273,7 +2273,7 @@ iframe {border: none;}
 .m-l-auto {margin-left: auto;}
 .m-r-auto {margin-right: auto;}
 .m-lr-auto {
-	margin-left: auto;	
+	margin-left: auto;
 	margin-right: auto;
 }
 
@@ -2887,4 +2887,3 @@ iframe {border: none;}
 	right: 0px;
 	bottom: 0px;
 }
-
